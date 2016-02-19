@@ -16,7 +16,7 @@
     "css"
   ],
   "dependencies": {
-    "revolt.settings.default": "0.x.x"
+    "revolt.settings.defaults": "0.x.x"
   },
   "license": "MIT"
 }
