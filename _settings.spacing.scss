@@ -1,0 +1,27 @@
+//
+// REVOLT!
+// SETTINGS.SPACING
+//
+
+
+
+// A map of our spacers according to size and direction.
+
+$revo-spacers: (
+    0: (
+        x: 0,
+        y: 0
+    ),
+    1: (
+        x: $revo-spacer-x,
+        y: $revo-spacer-y
+    ),
+    2: (
+        x: ($revo-spacer-x * 1.5),
+        y: ($revo-spacer-y * 1.5)
+    ),
+    3: (
+        x: ($revo-spacer-x * 3),
+        y: ($revo-spacer-y * 3)
+    )
+) !default;

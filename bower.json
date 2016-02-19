@@ -1,0 +1,22 @@
+{
+  "name": "revolt.settings.spacing",
+  "homepage": "https://github.com/revolt-framework/settings.spacing",
+  "authors": [
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "Revolt framework module for spacing settings.",
+  "main": "_settings.spacing.scss",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css"
+  ],
+  "dependencies": {
+    "revolt.settings.default": "0.x.x"
+  },
+  "license": "MIT"
+}
